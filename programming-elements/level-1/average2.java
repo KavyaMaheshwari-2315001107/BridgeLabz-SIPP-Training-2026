@@ -10,7 +10,3 @@ public class average2{
     }
 }
 
-// git add core-java-practice
-// git status
-//  git commit -m "[kavya] Added: Programming ele practice program"
-// git push origin core-java
