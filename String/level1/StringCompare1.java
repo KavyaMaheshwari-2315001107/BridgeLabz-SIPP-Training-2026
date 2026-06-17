@@ -1,5 +1,3 @@
-package strings.level_1;
-
 import java.util.Scanner;
 
 public class StringCompare1 {
